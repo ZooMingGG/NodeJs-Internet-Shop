@@ -1,0 +1,68 @@
+h1 {
+  text-align: center;
+}
+
+.nav-wrapper {
+  padding: 0 2rem;
+}
+
+.card-content {
+  text-align: center;
+}
+
+.card .card-title {
+  font-size: 4rem;
+  font-weight: 400;
+}
+
+.card .card-content .price {
+  margin: 50px 0 0;
+  font-size: 1.5rem;
+}
+
+.course {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.course h1 {
+  margin: 2rem;
+}
+
+.course img {
+  max-width: 600px;
+  height: auto;
+}
+
+.course .price.big {
+  font-size: 2.5rem;
+}
+
+.course-form {
+  margin: 0 0 2rem 0;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card .card-content .date, .card .card-content .order-user {
+  text-align: left;
+  margin: 10px 0;
+}
+
+.card .card-title.order-title {
+  font-size: 2rem;
+}
+
+.order-item {
+  text-align: left;
+}
+
+.auth {
+  padding: 1rem 0 0 0;
+}
